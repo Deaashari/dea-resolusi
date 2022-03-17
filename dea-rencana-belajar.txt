@@ -5,3 +5,5 @@ RENCANA BELAJAR DEA
 - Excel
 - video
 - Struktur data dasar
+- belajar python
+- menambahkan ci/cd
