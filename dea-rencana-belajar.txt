@@ -1,0 +1,7 @@
+RENCANA BELAJAR DEA
+
+- membuat pembelajaran Golang
+1. dasar-dasar golang
+- Excel
+- video
+-
