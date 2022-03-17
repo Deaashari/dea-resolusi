@@ -3,5 +3,7 @@ RENCANA BELAJAR DEA
 - membuat pembelajaran Golang
 1. dasar-dasar golang
 - Excel
-- video
 - Struktur data dasar
+- menambahkan belajar python
+- belajar arduino
+- belajar aplikasi
