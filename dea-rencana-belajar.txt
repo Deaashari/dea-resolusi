@@ -4,4 +4,4 @@ RENCANA BELAJAR DEA
 1. dasar-dasar golang
 - Excel
 - video
--
+- Struktur data dasar
