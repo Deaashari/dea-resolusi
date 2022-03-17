@@ -2,4 +2,6 @@ DEA RESOLUSI
 - Konsisten untuk belajar Golang
 - Belajar BackEnd Engineering
 - Mengerjakan Tugas Akhir 
-- Belajar dengan konsisten
+
+- Belajar edit video
+- Belajar excel
