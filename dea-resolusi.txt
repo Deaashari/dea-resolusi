@@ -1,0 +1,4 @@
+DEA RESOLUSI
+- Konsisten untuk belajar Golang
+- Belajar BackEnd Engineering
+- Mengerjakan Tugas Akhir 
