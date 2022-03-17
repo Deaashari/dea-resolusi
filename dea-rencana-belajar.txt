@@ -6,3 +6,4 @@ RENCANA BELAJAR DEA
 - video
 - Struktur data dasar
 - belajar python
+- menambahkan ci/cd
